@@ -425,7 +425,7 @@ button {
 
 .search_taital{
     width: 100%;
-    padding-left: 22rem;
+    text-align: center;
     float: left;
    font-size: 40px;
     color: #fefefd;
